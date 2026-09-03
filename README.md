@@ -17,7 +17,7 @@
 * **Game Server Infrastructure** — Опыт настройки, контейнеризации и поддержки сложных моудированных серверов (Minecraft Forge/Fabric) и разработка механик (Roblox Studio).
 
 #### 📫 Как связаться:
-telegram:Manroeduard
-Gmail:grisabogajcuk543@gmail.com
-Готов к сложным задачам и интересным проектам в сфере Backend и системного администрирования.
+**telegram:Manroeduard
+**Gmail:grisabogajcuk543@gmail.com
+**Готов к сложным задачам и интересным проектам в сфере Backend и системного администрирования.
 
