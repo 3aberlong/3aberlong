@@ -1,17 +1,20 @@
 ### ⚡ Привет, я backend-разработчик и системный администратор 
 
-Специализируюсь на создании производительных и безопасных приложений на **Rust** и **Python**, а также на настройке и поддержке серверной инфраструктуры.
+Специализируюсь на создании производительных приложений (Rust, C++, Python), сетевой безопасности и развертывании серверной инфраструктуры на базе Linux.
 
 #### 💻 Технический арсенал:
-- **Языки:** Rust, Python (aiogram), C++
-- **DevOps & Администрирование:** Ubuntu Server, Docker, Nginx, Cloudflare Tunnels
+- **Backend & System:** Rust (Axum, Tokio), C++, Python (aiogram)
+- **Linux & OS:** Ubuntu Server, Arch Linux (Hyprland, Zsh), Kali Linux
+- **DevOps & Сети:** Docker, Nginx, Cloudflare Tunnels, TCP/IP, WebSockets
 - **Базы данных:** PostgreSQL, SQLx
-- **Безопасность:** Основы сетевой безопасности, Kali Linux, криптография (x25519)
+- **Безопасность:** E2E шифрование (x25519), хэширование, опыт работы с TryHackMe
+- **Инструменты:** VS Code, Obsidian, Git
 
-#### 🚀 Мои проекты:
-* [**Rust E2E Messenger**](https://github.com/3aberlong/rust-e2e-messenger) — Десктопный мессенджер со сквозным шифрованием. Стек: Rust, Tauri, Axum, PostgreSQL, WebSockets.
+#### 🚀 Избранные проекты:
+* [**Rust E2E Messenger**](https://github.com/3aberlong/rust-e2e-messenger) — Десктопный мессенджер со сквозным шифрованием. Асинхронный бэкенд на Rust, хранение ключей локально, интерфейс на Tauri.
 * [**Локальный веб-сервер (septyk.rv.ua)**](https://septyk.rv.ua) — Полный цикл развертывания веб-приложения на Ubuntu Server. Настройка маршрутизации и безопасности через Nginx и Cloudflare.
-* [**Read Later Bot (Telegram)**](https://github.com/3aberlong/read_later_bot) — Бот для отложенного чтения постов и ссылок. Архитектура и хэндлеры реализованы на Python с использованием фреймворка `aiogram`.
+* [**Read Later Bot (Telegram)**](https://github.com/3aberlong/read_later_bot) — Асинхронный бот на Python (aiogram) для удобного сохранения ссылок и отложенного чтения.
+* **Game Server Infrastructure** — Опыт настройки, контейнеризации и поддержки сложных моудированных серверов (Minecraft Forge/Fabric) и разработка механик (Roblox Studio).
 
 #### 📫 Как связаться:
 telegram:Manroeduard
