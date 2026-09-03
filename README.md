@@ -14,4 +14,7 @@
 * [**Read Later Bot (Telegram)**](https://github.com/3aberlong/read_later_bot) — Бот для отложенного чтения постов и ссылок. Архитектура и хэндлеры реализованы на Python с использованием фреймворка `aiogram`.
 
 #### 📫 Как связаться:
+telegram:Manroeduard
+Gmail:grisabogajcuk543@gmail.com
 Готов к сложным задачам и интересным проектам в сфере Backend и системного администрирования.
+
