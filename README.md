@@ -1,16 +1,17 @@
-## Hi there 👋
+### ⚡ Привет, я backend-разработчик и системный администратор 
 
-<!--
-**3aberlong/3aberlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Специализируюсь на создании производительных и безопасных приложений на **Rust** и **Python**, а также на настройке и поддержке серверной инфраструктуры.
 
-Here are some ideas to get you started:
+#### 💻 Технический арсенал:
+- **Языки:** Rust, Python (aiogram), C++
+- **DevOps & Администрирование:** Ubuntu Server, Docker, Nginx, Cloudflare Tunnels
+- **Базы данных:** PostgreSQL, SQLx
+- **Безопасность:** Основы сетевой безопасности, Kali Linux, криптография (x25519)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Мои проекты:
+* [**Rust E2E Messenger**](https://github.com/3aberlong/rust-e2e-messenger) — Десктопный мессенджер со сквозным шифрованием. Стек: Rust, Tauri, Axum, PostgreSQL, WebSockets.
+* [**Локальный веб-сервер (septyk.rv.ua)**](https://septyk.rv.ua) — Полный цикл развертывания веб-приложения на Ubuntu Server. Настройка маршрутизации и безопасности через Nginx и Cloudflare.
+* [**Read Later Bot (Telegram)**](https://github.com/3aberlong/read_later_bot) — Бот для отложенного чтения постов и ссылок. Архитектура и хэндлеры реализованы на Python с использованием фреймворка `aiogram`.
+
+#### 📫 Как связаться:
+Готов к сложным задачам и интересным проектам в сфере Backend и системного администрирования.
